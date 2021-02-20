@@ -1,0 +1,218 @@
+/*
+ * (c) 2013 Ch. klippel  -  ck@atelier-klippel.de / c.klippel@gmx.de
+ *
+ * This code is released under the terms of the GPL, version 2 or newer.
+ * See the file COPYING for more information about the license.
+ *
+ * Changelog:
+ *
+ * v00.01: - Initial version
+ *
+ */
+
+rom const char *rom strings_EN[] =
+{
+    "\r\n*** RESET ***\r\n",
+    "English",
+    "Initializing modules",
+    "Language manager",
+    "Selecting language",
+    "Invalid language",
+    "Starting",
+    "LCD Driver",
+    "LCD Backlight",
+    "Config Manager",
+    "Invalid main settings",
+    "Invalid system settings",
+    "Config Memory",
+    "Setting default main settings",
+    "Setting default system settings",
+    "Loading stored main settings",
+    "Loading stored system settings",
+    "System setting loaded",
+    "Saving main settings",
+    "Saving system settings",
+    "Checksum OK",
+    "Checksum wrong",
+    "Serial port",
+    "Setting baudrate to",
+    "Tip Detector",
+    "ADC Converter",
+    "RF Manager",
+    "Power Manager",
+    "Rotary Encoder",
+    "Tip detected",
+    "** NO TIP DETECTED **",
+    "Change state to",
+    "Change power level to",
+    "Off",
+    "Normal",
+    "Limit",
+    "Boost",
+    "Invalid",
+    "after",
+    "PM_STARTUP",
+    "PM_STARTUP_TIMED_LIMIT",
+    "PM_STARTUP_POWER_LIMIT",
+    "PM_STARTUP_TIMED_BOOST",
+    "PM_STARTUP_POWER_BOOST",
+    "PM_HEATING",
+    "PM_HEATED",
+    "PM_ENTER_IDLE",
+    "PM_IDLE",
+    "PM_ENTER_SLEEP",
+    "PM_SLEEP",
+    "PM_WAKEUP",
+    "PM_WAKEUP_TIMED_BOOST",
+    "PM_WAKEUP_POWER_BOOST",
+    "PM_ENTER_POWERDOWN",
+    "PM_POWERDOWN",
+    "PM_MANUAL_OFF",
+    "PM_MANUAL_LIMIT",
+    "PM_MANUAL_NORMAL",
+    "PM_MANUAL_BOOST",
+    "PM_OFF",
+
+    "Heatup",
+    "Heatup Lim.Timed",
+    "Heatup Lim-Power",
+    "Heatup Bst.Timed",
+    "Heatup Bst.Power",
+    "Heating",
+    "Heated",
+    "Idle",
+    "Sleep",
+    "Wakeup",
+    "Wakeup Bst.Timed",
+    "Wakeup Bst.Power",
+    "Powerdown",
+    "Manual, Off",
+    "Manual, Limit",
+    "Manual, On",
+    "Manual, Boost",
+    "Off",
+    ">> NO TIP",
+
+// menu strings
+    "Main Menu",
+    "Main Setup",
+    "Load Config",
+    "Save Config",
+    "Edit Config",
+    "Show Version",
+    "Reset",
+
+// config strings
+    ">Save",
+    ">Dont save",
+    ">Discard",
+
+// main config strings
+    "Main Setup",
+
+    "Language",
+    "English",
+    "German",
+
+    "Baudrate",
+    "  2400",
+    "  4800",
+    "  7200",
+    "  9200",
+    " 14400",
+    " 19200",
+    " 28800",
+    " 31520",
+    " 38400",
+    " 57600",
+    "115200",
+
+    "Logger",
+    "Version Info",
+    "Startups",
+    "Modules",
+    "Parameters",
+    "Timestamp",
+    "Newline",
+
+    "Startup PM Conf.",
+
+// power manager config
+    "Edit Config",
+    "Save Config",
+    "Load Config",
+    "Current Config",
+    "Make Active",
+    "From Edit Config",
+    "From Default Cfg",
+    "Config Name",
+
+    "Startup Mode",
+    "Auto, On",
+    "Auto, Off",
+    "Manual, On",
+    "Manual, Off",
+
+    "Heatup Mode",
+    "Normal Power",
+    "Power Limit",
+    "Power Boost",
+
+    "Heatup End Cond.",
+    "Timed",
+    "Pwr Lvl Thresh.",
+
+    "Heatup End Param",
+    "HeatupLim, Time",
+    "HeatupLim, PwrTh",
+    "HeatupBst, Time",
+    "HeatupBst, PwrTh",
+
+    "Idle Parameters",
+    "Idle Threshold",
+    "Enter Sleep Time",
+
+    "Sleep Options",
+    "Sleep Mode",
+    "Auto-Powerdown",
+
+    "Sleep Mode Param",
+    "Light Sleep Time",
+    "Light Slp Thresh",
+    "Sleep Threshold",
+    "Auto-Off Time",
+
+    "Wakeup Mode",
+    "Normal Power",
+    "Power Boost",
+
+    "Wakeup End Cond.",
+    "Timed",
+    "Pwr Lvl Thresh.",
+
+    "Wakeup End Param",
+    "WakeupBst, Time",
+    "WakeupBst, PwrTh",
+
+    "Normal Backlight",
+    "Sleep Backlight",
+    "Auto Off Backl.",
+    "Constant",
+    "Pulsing",
+    "Flashing",
+
+    "Const. BL Param.",
+    "Const. BL. Level",
+
+    "Pulse BL Param.",
+    "Pulse Level Low",
+    "Pulse Level High",
+    "Pulse Speed",
+
+    "Flash BL Param.",
+    "Flash Level Low",
+    "Flash Level High",
+    "Flash On-Time",
+    "Flash Off-Time",
+
+};

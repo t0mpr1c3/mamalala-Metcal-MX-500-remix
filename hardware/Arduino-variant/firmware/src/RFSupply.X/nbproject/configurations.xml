@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><configurationDescriptor version="62">
+  <logicalFolder displayName="root" name="root" projectFiles="true">
+    <logicalFolder displayName="Documentation" name="f3" projectFiles="true">
+      <itemPath>../Docu/Doc.odt</itemPath>
+      <itemPath>../Docu/Doc.pdf</itemPath>
+      <itemPath>../Docu/Icon_Power_Boost.png</itemPath>
+      <itemPath>../Docu/Icon_Power_Limit.png</itemPath>
+      <itemPath>../Docu/Icon_Power_Normal.png</itemPath>
+      <itemPath>../Docu/Icon_Power_Off.png</itemPath>
+    </logicalFolder>
+    <logicalFolder displayName="GPL License" name="f2" projectFiles="true">
+      <itemPath>../COPYING</itemPath>
+    </logicalFolder>
+    <logicalFolder displayName="Header Files" name="HeaderFiles" projectFiles="true">
+      <logicalFolder displayName="adc" name="adc" projectFiles="true">
+        <itemPath>../adc/adc.h</itemPath>
+      </logicalFolder>
+      <logicalFolder displayName="config_manager" name="f5" projectFiles="true">
+        <itemPath>../config_manager/config_manager.h</itemPath>
+        <itemPath>../config_manager/config_memory.h</itemPath>
+        <itemPath>../config_manager/config_iteminfo.h</itemPath>
+        <itemPath>../config_manager/config_editor.h</itemPath>
+      </logicalFolder>
+      <logicalFolder displayName="crc" name="f6" projectFiles="true">
+        <itemPath>../crc/crc.h</itemPath>
+      </logicalFolder>
+      <logicalFolder displayName="eeprom" name="f8" projectFiles="true">
+        <itemPath>../eeprom/eeprom.h</itemPath>
+      </logicalFolder>
+      <logicalFolder displayName="encoder" name="encoder" projectFiles="true">
+        <itemPath>../encoder/encoder.h</itemPath>
+      </logicalFolder>
+      <logicalFolder displayName="hardware" name="hardware" projectFiles="true">
+        <itemPath>../hardware/hardware.h</itemPath>
+        <itemPath>../hardware/pindef.h</itemPath>
+      </logicalFolder>
+      <logicalFolder displayName="helpers" name="f4" projectFiles="true">
+        <itemPath>../helpers/helpers.h</itemPath>
+      </logicalFolder>
+      <logicalFolder displayName="infodisplay" name="f11" projectFiles="true">
+        <itemPath>../infodisplay/infodisplay.h</itemPath>
+        <itemPath>../infodisplay/infoicons.h</itemPath>
+      </logicalFolder>
+      <logicalFolder displayName="interrupt" name="interrupt" projectFiles="true">
+        <itemPath>../interrupt/interrupt.h</itemPath>
+      </logicalFolder>
+      <logicalFolder displayName="languages" name="f7" projectFiles="true">
+        <itemPath>../languages/languages.h</itemPath>
+        <itemPath>../languages/languages_strings.h</itemPath>
+      </logicalFolder>
+      <logicalFolder displayName="lcd" name="lcd" projectFiles="true">
+        <itemPath>../lcd/lcd.h</itemPath>
+        <itemPath>../lcd/backlight.h</itemPath>
+      </logicalFolder>
+      <logicalFolder displayName="logger" name="f10" projectFiles="true">
+        <itemPath>../logger/logger.h</itemPath>
+      </logicalFolder>
+      <logicalFolder displayName="menu" name="f13" projectFiles="true">
+        <itemPath>../menu/menu.h</itemPath>
+        <itemPath>../menu/menudata.h</itemPath>
+      </logicalFolder>
+      <logicalFolder displayName="power_manager" name="f3" projectFiles="true">
+        <itemPath>../power_manager/power_manager.h</itemPath>
+      </logicalFolder>
+      <logicalFolder displayName="rf_manager" name="f9" projectFiles="true">
+        <itemPath>../rf_manager/rf_manager.h</itemPath>
+      </logicalFolder>
+      <logicalFolder displayName="time" name="f12" projectFiles="true">
+        <itemPath>../time/time.h</itemPath>
+      </logicalFolder>
+      <logicalFolder displayName="tip" name="f1" projectFiles="true">
+        <itemPath>../tip/tip_detect.h</itemPath>
+      </logicalFolder>
+      <logicalFolder displayName="uart" name="f2" projectFiles="true">
+        <itemPath>../uart/uart_fifo.h</itemPath>
+        <itemPath>../uart/uart.h</itemPath>
+      </logicalFolder>
+      <itemPath>../rfsupply.h</itemPath>
+      <itemPath>../version.h</itemPath>
+    </logicalFolder>
+    <logicalFolder displayName="Languages-Strings" name="f1" projectFiles="true">
+      <itemPath>../languages/strings_DE</itemPath>
+      <itemPath>../languages/strings_EN</itemPath>
+    </logicalFolder>
+    <logicalFolder displayName="Linker Files" name="LinkerScript" projectFiles="true">
+      <itemPath>../18F2620.lkr</itemPath>
+    </logicalFolder>
+    <logicalFolder displayName="Source Files" name="SourceFiles" projectFiles="true">
+      <logicalFolder displayName="adc" name="adc" projectFiles="true">
+        <itemPath>../adc/adc.c</itemPath>
+      </logicalFolder>
+      <logicalFolder displayName="config_manager" name="f5" projectFiles="true">
+        <itemPath>../config_manager/config_manager.c</itemPath>
+        <itemPath>../config_manager/config_memory.c</itemPath>
+        <itemPath>../config_manager/config_iteminfo.c</itemPath>
+        <itemPath>../config_manager/config_editor.c</itemPath>
+      </logicalFolder>
+      <logicalFolder displayName="crc" name="f6" projectFiles="true">
+        <itemPath>../crc/crc.c</itemPath>
+      </logicalFolder>
+      <logicalFolder displayName="eeprom" name="f8" projectFiles="true">
+        <itemPath>../eeprom/eeprom.c</itemPath>
+      </logicalFolder>
+      <logicalFolder displayName="encoder" name="encoder" projectFiles="true">
+        <itemPath>../encoder/encoder.c</itemPath>
+      </logicalFolder>
+      <logicalFolder displayName="hardware" name="hardware" projectFiles="true">
+        <itemPath>../hardware/hardware.c</itemPath>
+        <itemPath>../hardware/configbits.c</itemPath>
+      </logicalFolder>
+      <logicalFolder displayName="helpers" name="f4" projectFiles="true">
+        <itemPath>../helpers/helpers.c</itemPath>
+      </logicalFolder>
+      <logicalFolder displayName="infodisplay" name="f11" projectFiles="true">
+        <itemPath>../infodisplay/infodisplay.c</itemPath>
+        <itemPath>../infodisplay/infoicons.c</itemPath>
+      </logicalFolder>
+      <logicalFolder displayName="interrupt" name="interrupt" projectFiles="true">
+        <itemPath>../interrupt/interrupt.c</itemPath>
+      </logicalFolder>
+      <logicalFolder displayName="languages" name="f7" projectFiles="true">
+        <itemPath>../languages/languages.c</itemPath>
+        <itemPath>../languages/languages_strings.c</itemPath>
+      </logicalFolder>
+      <logicalFolder displayName="lcd" name="lcd" projectFiles="true">
+        <itemPath>../lcd/lcd.c</itemPath>
+        <itemPath>../lcd/backlight.c</itemPath>
+      </logicalFolder>
+      <logicalFolder displayName="logger" name="f10" projectFiles="true">
+        <itemPath>../logger/logger.c</itemPath>
+      </logicalFolder>
+      <logicalFolder displayName="menu" name="f13" projectFiles="true">
+        <itemPath>../menu/menu.c</itemPath>
+        <itemPath>../menu/menudata.c</itemPath>
+      </logicalFolder>
+      <logicalFolder displayName="power_manager" name="f3" projectFiles="true">
+        <itemPath>../power_manager/power_manager.c</itemPath>
+      </logicalFolder>
+      <logicalFolder displayName="rf_manager" name="f9" projectFiles="true">
+        <itemPath>../rf_manager/rf_manager.c</itemPath>
+      </logicalFolder>
+      <logicalFolder displayName="time" name="f12" projectFiles="true">
+        <itemPath>../time/time.c</itemPath>
+      </logicalFolder>
+      <logicalFolder displayName="tip" name="f1" projectFiles="true">
+        <itemPath>../tip/tip_detect.c</itemPath>
+      </logicalFolder>
+      <logicalFolder displayName="uart" name="f2" projectFiles="true">
+        <itemPath>../uart/uart_fifo.c</itemPath>
+        <itemPath>../uart/uart.c</itemPath>
+      </logicalFolder>
+      <itemPath>../main.c</itemPath>
+    </logicalFolder>
+    <logicalFolder displayName="Important Files" name="ExternalFiles" projectFiles="false">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceRootList>
+    <Elem>../</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="default" type="2">
+      <toolsSet>
+        <developmentServer>localhost</developmentServer>
+        <targetDevice>PIC18F2620</targetDevice>
+        <targetHeader/>
+        <targetPluginBoard/>
+        <platformTool>PICkit3PlatformTool</platformTool>
+        <languageToolchain>C18</languageToolchain>
+        <languageToolchainVersion>3.40</languageToolchainVersion>
+        <platform>2</platform>
+      </toolsSet>
+      <compileType>
+        <linkerTool>
+          <linkerLibItems>
+          </linkerLibItems>
+        </linkerTool>
+        <loading>
+          <useAlternateLoadableFile>false</useAlternateLoadableFile>
+          <alternateLoadableFile/>
+        </loading>
+      </compileType>
+      <makeCustomizationType>
+        <makeCustomizationPreStepEnabled>false</makeCustomizationPreStepEnabled>
+        <makeCustomizationPreStep/>
+        <makeCustomizationPostStepEnabled>false</makeCustomizationPostStepEnabled>
+        <makeCustomizationPostStep/>
+        <makeCustomizationPutChecksumInUserID>false</makeCustomizationPutChecksumInUserID>
+        <makeCustomizationEnableLongLines>false</makeCustomizationEnableLongLines>
+        <makeCustomizationNormalizeHexFile>false</makeCustomizationNormalizeHexFile>
+      </makeCustomizationType>
+      <C18>
+        <property key="code-model" value="ms"/>
+        <property key="data-model" value="oa-"/>
+        <property key="default-char-unsigned" value="false"/>
+        <property key="enable-all-optimizations" value="false"/>
+        <property key="enable-int-promotion" value="false"/>
+        <property key="enable-multi-bank-stack-model" value="false"/>
+        <property key="enable-ob" value="true"/>
+        <property key="enable-od" value="true"/>
+        <property key="enable-om" value="true"/>
+        <property key="enable-on" value="true"/>
+        <property key="enable-op" value="true"/>
+        <property key="enable-opa" value="true"/>
+        <property key="enable-or" value="true"/>
+        <property key="enable-os" value="true"/>
+        <property key="enable-ot" value="true"/>
+        <property key="enable-ou" value="true"/>
+        <property key="enable-ow" value="true"/>
+        <property key="extra-include-directories" value="../;../adc;../interrupt;../encoder;../lcd;../hardware;../tip;../power_manager;../uart;../power_manager;../helpers;../config_manager;../crc;../languages;../eeprom;../rf_manager;../logger;../infodisplay;../time;../menu;../menu/languages;../config_manager/languages"/>
+        <property key="optimization-master" value="Disable all"/>
+        <property key="preprocessor-macros" value=""/>
+        <property key="procedural-abstraction-passes" value="6"/>
+        <property key="storage-class" value="sca"/>
+        <property key="verbose" value="false"/>
+        <property key="warning-level" value="2"/>
+      </C18>
+      <C18-AS>
+        <property key="cross.reference.file" value=""/>
+        <property key="default.radix" value="HEX"/>
+        <property key="enable.case.sensitivity" value="true"/>
+        <property key="hex.output.format" value="INHX32"/>
+        <property key="preprocessor.macros" value=""/>
+        <property key="warning.level" value="0"/>
+      </C18-AS>
+      <C18-LD>
+        <property key="cod-file" value="true"/>
+        <property key="extra-lib-directories" value="../F:/MCC18/lib"/>
+        <property key="hex-output-format" value="INHX32"/>
+        <property key="map-file" value="&quot;$(BINDIR_)$(TARGETBASE).map&quot;"/>
+      </C18-LD>
+      <C18LanguageToolchain>
+        <property key="extended-mode" value="false"/>
+        <property key="extended-mode-mcc18" value="false"/>
+        <property key="extended-mode-mpasm" value="false"/>
+        <property key="extended-mode-mplink" value="false"/>
+        <property key="stack-analysis" value="false"/>
+        <property key="stack-analysis-mcc18" value="false"/>
+        <property key="stack-analysis-mplink" value="false"/>
+      </C18LanguageToolchain>
+      <PICkit3PlatformTool>
+        <property key="AutoSelectMemRanges" value="auto"/>
+        <property key="Freeze Peripherals" value="true"/>
+        <property key="SecureSegment.SegmentProgramming" value="FullChipProgramming"/>
+        <property key="ToolFirmwareFilePath" value="Press to browse for a specific firmware version"/>
+        <property key="ToolFirmwareOption.UseLatestFirmware" value="true"/>
+        <property key="hwtoolclock.frcindebug" value="false"/>
+        <property key="memories.aux" value="false"/>
+        <property key="memories.bootflash" value="false"/>
+        <property key="memories.configurationmemory" value="false"/>
+        <property key="memories.eeprom" value="false"/>
+        <property key="memories.flashdata" value="true"/>
+        <property key="memories.id" value="false"/>
+        <property key="memories.programmemory" value="true"/>
+        <property key="memories.programmemory.end" value="0xffff"/>
+        <property key="memories.programmemory.start" value="0x0"/>
+        <property key="poweroptions.powerenable" value="false"/>
+        <property key="programmertogo.imagename" value=""/>
+        <property key="programoptions.eraseb4program" value="true"/>
+        <property key="programoptions.pgmspeed" value="2"/>
+        <property key="programoptions.preserveeeprom" value="false"/>
+        <property key="programoptions.preserveprogramrange" value="false"/>
+        <property key="programoptions.preserveprogramrange.end" value="0xffff"/>
+        <property key="programoptions.preserveprogramrange.start" value="0x0"/>
+        <property key="programoptions.preserveuserid" value="false"/>
+        <property key="programoptions.usehighvoltageonmclr" value="false"/>
+        <property key="programoptions.uselvpprogramming" value="false"/>
+        <property key="voltagevalue" value="5.0"/>
+      </PICkit3PlatformTool>
+    </conf>
+  </confs>
+</configurationDescriptor>

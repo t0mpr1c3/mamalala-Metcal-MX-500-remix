@@ -1,0 +1,2 @@
+idle voltage around 14V
+boost/limit around +/- 3.5V change in idle voltage
