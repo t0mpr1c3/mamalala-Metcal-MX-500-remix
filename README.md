@@ -34,3 +34,4 @@ http://randomfunprojects.co.uk/metcal.html
 - https://hackaday.com/2019/06/16/homemade-magic-makes-the-metcal-go/
 - https://habr.com/en/post/451246/
 - https://github.com/SergeyMax/SolderingStation
+- https://www.eevblog.com/forum/reviews/metcal-mx-5200-and-mx-5000-firmware-and-data-eeprom-information/
