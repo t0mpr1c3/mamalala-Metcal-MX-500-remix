@@ -1,0 +1,117 @@
+Partlist exported from C:/Users/Tom/Documents/hack/metcal/MX-500P/mamalala-Metcal-MX-500-remix/hardware/RF-stage/eagle/RF-Gen_RF-Stage.sch at 2/20/2021 10:58 AM
+
+Part  Value                     Device              Package          Description       
+C1    100µ/50V                  C-POL-EU-AL_100_108 CAP_AL_100_108                     
+C2    10µ/50V                   C-EU-1210           C_1210_REFLOW                      
+C3    10µ/50V                   C-EU-1210           C_1210_REFLOW                      
+C4    10µ/50V                   C-EU-1210           C_1210_REFLOW                      
+C5    100n                      C-EU-0805           C_0805_REFLOW                      
+C6    10n                       C-EU-1206           C_1206_REFLOW                      
+C7    100µ/50V                  C-POL-EU-AL_100_108 CAP_AL_100_108                     
+C8    100µ/50V                  C-POL-EU-AL_100_108 CAP_AL_100_108                     
+C9    100n                      C-EU-0805           C_0805_REFLOW                      
+C10   100n                      C-EU-0805           C_0805_REFLOW                      
+C11   100n                      C-EU-0805           C_0805_REFLOW                      
+C12   4µ7                       C-EU-1206           C_1206_REFLOW                      
+C13   100n                      C-EU-1206           C_1206_REFLOW                      
+C14   47n                       C-EU-1206           C_1206_REFLOW                      
+C15   47n                       C-EU-1206           C_1206_REFLOW                      
+C16   47n                       C-EU-1206           C_1206_REFLOW                      
+C17   47n                       C-EU-1206           C_1206_REFLOW                      
+C18   47n                       C-EU-1206           C_1206_REFLOW                      
+C19   47n                       C-EU-1206           C_1206_REFLOW                      
+C20   22p                       C-EU-1206           C_1206_REFLOW                      
+C21   22p                       C-EU-1206           C_1206_REFLOW                      
+C22   56p                       C-EU-1206           C_1206_REFLOW                      
+C23   56p                       C-EU-1206           C_1206_REFLOW                      
+C24   56p                       C-EU-1206           C_1206_REFLOW                      
+C25   56p                       C-EU-1206           C_1206_REFLOW                      
+C26   56p                       C-EU-1206           C_1206_REFLOW                      
+C27   56p                       C-EU-1206           C_1206_REFLOW                      
+C28   56p                       C-EU-1206           C_1206_REFLOW                      
+C29   56p                       C-EU-1206           C_1206_REFLOW                      
+C30   56p                       C-EU-1206           C_1206_REFLOW                      
+C31   56p                       C-EU-1206           C_1206_REFLOW                      
+C32   56p                       C-EU-1206           C_1206_REFLOW                      
+C33   100n                      C-EU-0805           C_0805_REFLOW                      
+C34   100n                      C-EU-0805           C_0805_REFLOW                      
+C35   10n                       C-EU-0805           C_0805_REFLOW                      
+C36   10n                       C-EU-0805           C_0805_REFLOW                      
+C37   56p                       C-EU-1206           C_1206_REFLOW                      
+C38   56P                       C-EU-1206           C_1206_REFLOW                      
+C39   56p                       C-EU-1206           C_1206_REFLOW                      
+C40   N/A                       C-EU-0805           C_0805_REFLOW                      
+C41   2µ2                       C-EU-1206           C_1206_REFLOW                      
+C42   100n                      C-EU-0805           C_0805_REFLOW                      
+C43   100n                      C-EU-0805           C_0805_REFLOW                      
+C44   22p                       C-EU-0805           C_0805_REFLOW                      
+C45   22p                       C-EU-0805           C_0805_REFLOW                      
+C46   100n                      C-EU-1206           C_1206_REFLOW                      
+C47   100n                      C-EU-1206           C_1206_REFLOW                      
+C48   56p                       C-EU-1206           C_1206_REFLOW                      
+D1                              DIODE-SMB           SMB              RECTIFIER DIODES  
+D2    1N4148                    DIODE-LL-34         LL-34            RECTIFIER DIODES  
+D3    1N4148                    DIODE-LL-34         LL-34            RECTIFIER DIODES  
+D4    Z5.6                      DIODE-LL-34         LL-34            RECTIFIER DIODES  
+D5    Z5.6                      DIODE-LL-34         LL-34            RECTIFIER DIODES  
+D6    1N4148                    DIODE-LL-34         LL-34            RECTIFIER DIODES  
+D7    1N4148                    DIODE-LL-34         LL-34            RECTIFIER DIODES  
+D8    Z5.6                      DIODE-LL-34         LL-34            RECTIFIER DIODES  
+D9    z5.6                      DIODE-LL-34         LL-34            RECTIFIER DIODES  
+D10   Z5.6                      DIODE-LL-34         LL-34            RECTIFIER DIODES  
+FET1  IRF510                    NFETTO22_INPCB      TO220_INPCB                        
+IC1   LM22676TJ7A               LM22676TJ7A         TO-263_THIN                        
+IC2   ISL55110TSSOP-8           ISL55110TSSOP-8     TSSOP-8                            
+IC3   TLV2374                   TLV2374SOIC-14      SOIC14                             
+IC4   SN74LVC1GX04DBV           SN74LVC1GX04DBV     DBV-R-PDSO-G6                      
+L1    22µ                       L-EU-SSR1260        SSR1260                            
+L2    22µ                       L-EU-SSR1260        SSR1260                            
+L3    11 turns T80-6            L-EU-T80_U          L_T80_U                            
+L4    14 turns T50-6            L-EU-T50_U          L_T50_U                            
+L5    8 turns T50-6             L-EU-T50_U2         L_T50_U2                           
+L6    47µ                       L-EU-2424           L_2424                             
+PAD1                            SMDPAD5X4           SMDPAD_5X4                         
+PAD2                            SMDPAD5X4           SMDPAD_5X4                         
+Q1    2N7002                    BSS123              SOT23            N-CHANNEL MOS FET 
+Q2    2N7002                    BSS123              SOT23            N-CHANNEL MOS FET 
+R1    22k                       R-EU-0805           R_0805_REFLOW                      
+R2    18k                       R-EU-0805           R_0805_REFLOW                      
+R3    2k2                       R-EU-0805           R_0805_REFLOW                      
+R4    1k                        R-EU-0805           R_0805_REFLOW                      
+R5    2M                        R-EU-0805           R_0805_REFLOW                      
+R6    1k                        R-EU-0805           R_0805_REFLOW                      
+R7    22k                       R-EU-0805           R_0805_REFLOW                      
+R8    4R7                       R-EU-1206           R_1206_REFLOW                      
+R9    4R7                       R-EU-1206           R_1206_REFLOW                      
+R10   22k                       R-EU-0805           R_0805_REFLOW                      
+R11   100                       R-EU-0805           R_0805_REFLOW                      
+R12   100                       R-EU-0805           R_0805_REFLOW                      
+R13   100                       R-EU-0805           R_0805_REFLOW                      
+R14   100                       R-EU-0805           R_0805_REFLOW                      
+R15   22k                       R-EU-0805           R_0805_REFLOW                      
+R16   100                       R-EU-0805           R_0805_REFLOW                      
+R17   22k                       R-EU-0805           R_0805_REFLOW                      
+R18   82k                       R-EU-0805           R_0805_REFLOW                      
+R19   5k                        TRIM_EU-S64Y_SMD    S64Y_SMD         POTENTIOMETER     
+R20   100                       R-EU-0805           R_0805_REFLOW                      
+R21   1k                        R-EU-0805           R_0805_REFLOW                      
+R22   22k                       R-EU-0805           R_0805_REFLOW                      
+R23   22k                       R-EU-0805           R_0805_REFLOW                      
+R24   100                       R-EU-0805           R_0805_REFLOW                      
+R25   5k                        TRIM_EU-S64Y_SMD    S64Y_SMD         POTENTIOMETER     
+R26   4k7                       R-EU-0805           R_0805_REFLOW                      
+R27   1k                        R-EU-0805           R_0805_REFLOW                      
+R28   1k                        R-EU-0805           R_0805_REFLOW                      
+R29   1k                        R-EU-0805           R_0805_REFLOW                      
+R30   1k                        R-EU-0805           R_0805_REFLOW                      
+R31   22k                       R-EU-0805           R_0805_REFLOW                      
+R32   2k                        TRIM_EU-3364W       3364W            POTENTIOMETER     
+R33   100                       R-EU-0805           R_0805_REFLOW                      
+R34   100                       R-EU-0805           R_0805_REFLOW                      
+SV1                             MA08-2SMD           MA08-2-SMD       PIN HEADER        
+U$1   MOUNTPADM3_WASHER         MOUNTPADM3_WASHER   PAD_M3_WASHER                      
+U$2   MOUNTPADM3_WASHER         MOUNTPADM3_WASHER   PAD_M3_WASHER                      
+U$3   MOUNTPADM3_WASHER         MOUNTPADM3_WASHER   PAD_M3_WASHER                      
+U$4   MOUNTPADM3_WASHER         MOUNTPADM3_WASHER   PAD_M3_WASHER                      
+XFMR1 2 x 13 o. 14 Turn FT82-61 XFMR_1_1_CTT80_U    XFMR_T80_U                         
+XTAL1 13.56MHz                  XTALSMD_5.0X3.2     XTAL_SMD_5.0X3.2                   
