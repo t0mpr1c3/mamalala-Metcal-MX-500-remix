@@ -31,6 +31,6 @@ http://randomfunprojects.co.uk/metcal.html
 
 ## See also
 
-https://hackaday.com/2019/06/16/homemade-magic-makes-the-metcal-go/
-https://habr.com/en/post/451246/
-https://github.com/SergeyMax/SolderingStation
+- https://hackaday.com/2019/06/16/homemade-magic-makes-the-metcal-go/
+- https://habr.com/en/post/451246/
+- https://github.com/SergeyMax/SolderingStation
