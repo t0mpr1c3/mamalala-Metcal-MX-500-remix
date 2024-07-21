@@ -18,8 +18,6 @@ http://randomfunprojects.co.uk/metcal.html
 4) A little bit of BOM rationalisation would be nice. For example the Aux supply capacitor for the switcher (can't remember the number now) is currently the only 1206 10nF in the design and could have been the same as the 10nF 0805's scattered everywhere.
 5) Depending on your skill with surface mount soldering the pads might benefit from tweaking slightly - they're perfect for reflow but a little tight for hand work."
 
-"The mounting holes on the board are 3.2 mm, this is a perfectly normal size for clearance M3 but I suspect that for many people with an electronics-only background getting four tapped holes in position to within perhaps 0.2 mm will be difficult, and being tapped the heatsink holes can't simply be opened out a little bigger. Might I suggest that loose-fitting 3.5 mm or even 4 mm holes might be preferable on a future board revision."
-
 ### Comment in post #375
 
 "The mounting holes on the board are 3.2 mm, this is a perfectly normal size for clearance M3 but I suspect that for many people with an electronics-only background getting four tapped holes in position to within perhaps 0.2 mm will be difficult, and being tapped the heatsink holes can't simply be opened out a little bigger. Might I suggest that loose-fitting 3.5 mm or even 4 mm holes might be preferable on a future board revision."
